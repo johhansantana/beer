@@ -1,3 +1,7 @@
 .tp-simpleresponsive .caption, .tp-simpleresponsive .tp-caption {
 	z-index: 4;
 }
+
+.caption{
+	white-space: normal !important;
+}
